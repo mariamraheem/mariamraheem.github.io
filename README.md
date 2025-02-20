@@ -1,2 +1,1 @@
-# mariam
-Personal portfolio
+# readme
